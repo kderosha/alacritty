@@ -1,0 +1,66 @@
+[font]
+size = 12.0
+
+[font.normal]
+family = "Mononoki Nerd Font"
+style = "Regular"
+
+[window]
+decorations = "None"
+opacity = 0.1
+
+# Default colors
+# [colors.primary]
+# background = '#2D2A2E'
+# foreground = '#fff1f3'
+#
+# # Normal colors
+# [colors.normal]
+# black   = '#2c2525'
+# red     = '#fd6883'
+# green   = '#adda78'
+# yellow  = '#f9cc6c'
+# blue    = '#f38d70'
+# magenta = '#a8a9eb'
+# cyan    = '#85dacc'
+# white   = '#fff1f3'
+#
+# # Bright colors
+# [colors.bright]
+# black   = '#72696a'
+# red     = '#fd6883'
+# green   = '#adda78'
+# yellow  = '#f9cc6c'
+# blue    = '#f38d70'
+# magenta = '#a8a9eb'
+# cyan    = '#85dacc'
+# white   = '#fff1f3'
+#
+
+
+# Default Colors
+[colors.primary]
+background = '#212121'
+foreground = '#f1f1f1'
+
+# Normal colors
+[colors.normal]
+black   = '#212121'
+red     = '#c30771'
+green   = '#10a778'
+yellow  = '#a89c14'
+blue    = '#008ec4'
+magenta = '#523c79'
+cyan    = '#20a5ba'
+white   = '#e0e0e0'
+
+# Bright colors
+[colors.bright]
+black   = '#818181'
+red     = '#fb007a'
+green   = '#5fd7af'
+yellow  = '#f3e430'
+blue    = '#20bbfc'
+magenta = '#6855de'
+cyan    = '#4fb8cc'
+white   = '#f1f1f1'
